@@ -14,7 +14,7 @@ codec      = { version = ">=1.0.0", package = "parity-scale-codec", default-feat
 scale-info = { version = ">=0.1.0", default-features = false, features = ["derive"], optional = true }
 
 [dev-dependencies]
-chrono = "=0.4.24"
+chrono = "=0.4.25"
 quickcheck = "0.9.2"
 quickcheck_macros = "0.9.1"
 
